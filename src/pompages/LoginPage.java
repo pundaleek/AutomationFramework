@@ -7,13 +7,13 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 	// Declaration
-	@FindBy(id="username")
+	@FindBy(id="login-username")
 	private WebElement usernameTextBox;
 
-	@FindBy(name="pwd")
+	@FindBy(id="login-password")
 	private WebElement passwordTextBox;
 
-	@FindBy(xpath="//div[.='Login ']")
+	@FindBy(id="btn-login")
 	private WebElement loginButton;
 
 	//initialization

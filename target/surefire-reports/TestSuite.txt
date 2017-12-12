@@ -1,23 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 5.009 s <<< FAILURE! - in TestSuite
-openApplication(scripts.TestLogin)  Time elapsed: 4.413 s  <<< FAILURE!
-org.openqa.selenium.WebDriverException: 
-Process unexpectedly closed with status: 0
-Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
-System info: host: 'APPU', ip: '192.168.43.174', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
-Driver info: driver.version: FirefoxDriver
-remote stacktrace: stack backtrace:
-   0:           0x4821c4 - <no info>
-   1:           0x482933 - <no info>
-   2:           0x445159 - <no info>
-   3:           0x44c838 - <no info>
-   4:           0x43026a - <no info>
-   5:           0x40ba4e - <no info>
-   6:           0x4119b9 - <no info>
-   7:           0x6d2c89 - <no info>
-   8:           0x426006 - <no info>
-   9:           0x6cd490 - <no info>
-  10:     0x7ffee1221fe4 - BaseThreadInitThunk
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.691 s - in TestSuite

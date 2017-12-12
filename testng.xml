@@ -7,7 +7,7 @@
 	<test name="Test">
 		<classes>
 			<class name="scripts.TestLogin" />
-			<class name="scripts.TestInvalidLogin" />
+			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -3,5 +3,6 @@ generic\IAutoConstant.class
 pompages\LoginPage.class
 scripts\TestInvalidLogin.class
 generic\Lib.class
+scripts\DataProviderExample.class
 scripts\TestLogin.class
 generic\TestngListeners.class
